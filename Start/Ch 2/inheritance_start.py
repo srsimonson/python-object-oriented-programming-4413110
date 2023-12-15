@@ -38,7 +38,7 @@ class Newspaper(Periodical):
         # self.title = title
         # self.price = price
         # self.period = period
-        # self.publisher = publisher
+        # self.publisher = publisherr
 
 
 b1 = Book("Brave New World", "Aldous Huxley", 311, 29.0)
