@@ -29,4 +29,5 @@ class C(A, B):
         print(self.name)
 
 c = C()
+print(C.__mro__)
 c.showprops()
